@@ -19,7 +19,7 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
 
 #### Python
 - Đảm bảo Python đã được cài đặt trên máy tính. 
-- Nếu chưa, tải Python tại [Python.org](https://www.python.org/).
+- Nếu chưa, tải Python tại [Python.org](https://www.python.org/). (yêu cầu version >= 3.8)
 
 #### Jupyter Notebook
 - Cài đặt Jupyter Notebook bằng lệnh:
@@ -27,21 +27,15 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
   pip install notebook
   ```
 
-#### Virtual Environment (Tuỳ chọn)
-- Sử dụng môi trường ảo để quản lý các gói Python trong dự án:
-  ```bash
-  python -m venv env
-  source env/bin/activate  # macOS/Linux
-  env\Scripts\activate    # Windows
-  ```
-
-### 1.2 Clone dự án từ GitHub
+### 1.1 Clone dự án từ GitHub
+1. Mở terminal hoặc Command Prompt.
+2. Điều hướng đến đường dẫn muốn chạy dự án:
 - Thực hiện lệnh sau để tải mã nguồn về máy tính:
   ```bash
   git clone https://github.com/buitrongtrinh/Final-Project.git
   ```
 
-### 1.3 Chuyển vào thư mục dự án
+### 1.2 Chuyển vào thư mục dự án
 - Di chuyển vào thư mục chứa mã nguồn:
   ```bash
   cd Final-Project/

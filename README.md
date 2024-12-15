@@ -21,11 +21,6 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
 - Đảm bảo Python đã được cài đặt trên máy tính. 
 - Nếu chưa, tải Python tại [Python.org](https://www.python.org/). (yêu cầu version >= 3.8)
 
-#### Jupyter Notebook
-- Cài đặt Jupyter Notebook bằng lệnh:
-  ```bash
-  pip install notebook
-  ```
 
 ### 1.2 Clone dự án từ GitHub
 1. Mở terminal hoặc Command Prompt.

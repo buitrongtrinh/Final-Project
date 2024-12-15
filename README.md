@@ -4,6 +4,12 @@
 Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality Analysis** được lấy từ [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 
 ---
+### **Danh sách sinh viên thực hiện**
+
+1. **Bùi Trọng Trịnh** - 22120390
+2. **Nguyễn Lê Phúc Thắng** - 22120332
+
+---
 
 ## **Cài đặt**
 

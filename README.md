@@ -77,9 +77,12 @@ Trình duyệt sẽ tự động mở giao diện Jupyter Notebook. Nếu không
 
 1. Đảm bảo các file `.ipynb` (file Notebook) nằm trong thư mục dự án.
 2. Nhấn vào file cần mở trong giao diện Jupyter để bắt đầu.
-3. Mỗi file Notebook được chia thành các *cell* (ô mã lệnh).
-4. Nhấn **Shift + Enter** để chạy từng cell tuần tự.
-5. Nếu dự án cần nhập dữ liệu, hãy đảm bảo dữ liệu đã được đặt trong thư mục đúng.
+3. Cách chạy dự án:
+  * Nếu muốn chạy tất cả cell:
+    * Trên thanh công cụ nhấn **Run** chọn **Run All Cells** để chạy toàn bộ Cell.
+  * Nếu muốn chạy tuần từ:
+    * Nhấn **Shift + Enter** để chạy từng cell tuần tự.
+6. Nếu dự án cần nhập dữ liệu, hãy đảm bảo dữ liệu đã được đặt trong thư mục đúng.
 
 ---
 

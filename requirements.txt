@@ -1,7 +1,6 @@
+os
 kagglehub
+shutil
 pandas
 seaborn
 matplotlib
-scipy
-numpy
-ace_tools

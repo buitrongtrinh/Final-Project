@@ -4,3 +4,4 @@ shutil
 pandas
 seaborn
 matplotlib
+notebook

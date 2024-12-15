@@ -27,7 +27,7 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
   pip install notebook
   ```
 
-### 1.1 Clone dự án từ GitHub
+### 1.2 Clone dự án từ GitHub
 1. Mở terminal hoặc Command Prompt.
 2. Điều hướng đến đường dẫn muốn chạy dự án:
 - Thực hiện lệnh sau để tải mã nguồn về máy tính:
@@ -35,7 +35,7 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
   git clone https://github.com/buitrongtrinh/Final-Project.git
   ```
 
-### 1.2 Chuyển vào thư mục dự án
+### 1.3 Chuyển vào thư mục dự án
 - Di chuyển vào thư mục chứa mã nguồn:
   ```bash
   cd Final-Project/
@@ -70,25 +70,15 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
      ```bash
      python.exe -m pip install -r requirements.txt
      ```
-
----
-
-## 2. Mở Jupyter Notebook
-
-1. Mở terminal hoặc Command Prompt.
-2. Điều hướng đến thư mục chứa dự án:
-   ```bash
-   cd đường_dẫn_đến_dự_án
-   ```
-3. Chạy lệnh để khởi động Jupyter Notebook:
+5. **Mở Jupyter Notebook**:
+  - Chạy lệnh để khởi động Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-4. Trình duyệt sẽ tự động mở giao diện Jupyter Notebook. Nếu không, bạn sẽ nhận được một URL trên terminal, hãy copy và dán URL đó vào trình duyệt.
-
+Trình duyệt sẽ tự động mở giao diện Jupyter Notebook. Nếu không, bạn sẽ nhận được một URL trên terminal, hãy copy và dán URL đó vào trình duyệt.
 ---
 
-## 3. Chạy file Notebook
+## 2. Chạy file Notebook
 
 1. Đảm bảo các file `.ipynb` (file Notebook) nằm trong thư mục dự án.
 2. Nhấn vào file cần mở trong giao diện Jupyter để bắt đầu.
@@ -98,7 +88,7 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
 
 ---
 
-## 4. Lưu ý
+## 3. Lưu ý
 
 - Kiểm tra các thông báo lỗi trong quá trình chạy và khắc phục nếu có.
 - Khi hoàn tất, nhấn **"Quit"** trên giao diện Jupyter hoặc dừng server bằng tổ hợp phím:

@@ -1,5 +1,4 @@
 kagglehub
-shutil
 pandas
 seaborn
 matplotlib

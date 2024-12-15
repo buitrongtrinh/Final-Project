@@ -70,7 +70,7 @@ Tiền xử lý và phân tích trên bộ dữ liệu **Customer Personality An
    ```bash
    jupyter notebook
    ```
-Trình duyệt sẽ tự động mở giao diện Jupyter Notebook. Nếu không, bạn sẽ nhận được một URL trên terminal, hãy copy và dán URL đó vào trình duyệt.
+  - Lưu ý: Trình duyệt sẽ tự động mở giao diện Jupyter Notebook. Nếu không, bạn sẽ nhận được một URL trên terminal, hãy copy và dán URL đó vào trình duyệt.
 ---
 
 ## 2. Chạy file Notebook
